@@ -47,4 +47,3 @@ git clone https://github.com/mahapara24/BMI-app.git
 Feel free to reach out if you have any questions or issues with the app. Enjoy calculating your BMI!
 ```
 
-You can add this content to a file named `README.md` in the project's repository for a nice and informative README for your project.
